@@ -1,67 +1,63 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=33cc33&height=100&section=header&text=Synergy%20of%20Code%20and%20Data&fontAlignY=40&fontSize=32&animation=twinkling" alt="Animated Header" />
+    <img src="https://svg-banners.vercel.app/api?type=typing&text=Jeffadha%3A%20Architecting%20Laravel%20%26%20Vue%20Synergy%20%2F%2F%20Mastering%20ETL%20Dataflows.&color=%238a2be2%2C%23ff6347%2C%2333cc33&font=code&font_size=24&height=120&align=center" alt="Animated Developer Banner" />
 </div>
 
 <h1 align="center">
-    ✨ The Architect of Systems: Laravel, Vue, & ETL
+    ⚡️ Digital Systems Engineer | UMK Student
 </h1>
 
 <p align="center">
-    🎓 Student @ <b>Universitas Muhammadiyah Karanganyar</b> | 🛠️ Full-Stack Problem Solver
+    **Status:** Building clean code | **Mission:** Turning Data into Wisdom
 </p>
 
 ---
 
-## 💡 Engineering Solutions
+## 🎯 Focus: Beyond The Full Stack
 
-I am a developer driven by the challenge of turning **messy requirements into elegant, working systems**. As a **Laravel and Vue** enthusiast, I specialize in building robust, performant web applications from the ground up.
+I'm a solution developer who specializes in **turning ambiguous requirements into high-fidelity, maintainable systems**. My core expertise lies in the **Laravel/Vue** ecosystem, enabling rapid and robust application development.
 
-My current deep dive is into the intelligent world of **Data Warehousing, ETL (Extract, Transform, Load), and OLAP (Online Analytical Processing)**. I'm focused on transforming raw data into actionable business insights.
-
-<br>
+Currently, I'm deep into the **Data Intelligence** domain:
+* **Data Warehousing:** Designing schemas for large-scale analysis.
+* **ETL/OLAP:** Building efficient pipelines to cleanse and process data.
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dark&count_private=true&hide_border=true&rank_icon=github&title_color=33cc33" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Jeffadha&show_icons=true&theme=gotham&count_private=true&hide_border=true&rank_icon=github&title_color=33cc33" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=33cc33&text_color=ffffff" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffadha&layout=compact&langs_count=6&theme=gotham&hide_border=true&title_color=33cc33&text_color=ffffff" alt="Top Languages" />
     </a>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Focus Areas
-
-My arsenal is built on the foundation of modern, scalable web and data technologies.
+## 🛠️ Data-Driven Tech Arsenal
 
 <p align="center">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/ETL%20%26%20OLAP-007ACC?style=for-the-badge&logo=tableau&logoColor=white" alt="ETL & OLAP" />
-    <img src="https://img.shields.io/badge/Data%20Warehousing-33cc33?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehousing" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Data%20Warehousing-007ACC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Data Warehousing" />
+    <img src="https://img.shields.io/badge/ETL%20%2F%20OLAP-583586?style=for-the-badge&logo=databricks&logoColor=white" alt="ETL / OLAP" />
 </p>
 
 ---
 
-## 🔥 Real-Time Development Momentum
+## 📈 Activity & Contribution Flow
 
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-GITHUB-USERNAME]&theme=dark&hide_border=true&stroke=33cc33&fire=ff3333" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffadha&theme=dark&hide_border=true&stroke=33cc33&fire=ff3333" alt="GitHub Streak" />
     </a>
     
-    <img src="https://raw.githubusercontent.com/[YOUR-GITHUB-USERNAME]/[YOUR-GITHUB-USERNAME]/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub Snake" />
+    <img src="https://raw.githubusercontent.com/Jeffadha/Jeffadha/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub Snake" />
 </div>
 
----
+<br>
 
 <p align="center">
-    Let's connect and build the next great system.
+    Let's connect and engineer the future of data and web systems.
 </p>
 
 <div align="center">
