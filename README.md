@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Jeffadha
 
-<!--
-**Jeffadha/Jeffadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Animated Bio](./profile-animated.svg)
 
-Here are some ideas to get you started:
+### About me
+- 🎓 Student at Universitas Muhammadiyah Karanganyar
+- 💻 Dev primarily using Laravel & Vue
+- 🔭 Building a submission system for LPPM (research & community service)
+- 🌱 Learning data warehousing, ETL, and OLAP
+- 🧩 I love turning messy requirements into working systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect
+- [Email](mailto:your.email@example.com) • [LinkedIn](https://www.linkedin.com/) • [Twitter](https://twitter.com/)
+
+---
+
+> This animated SVG lives in `profile-animated.svg`. Edit the SVG to change colors, name, roles, or timing.
+
