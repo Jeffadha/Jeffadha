@@ -1,6 +1,6 @@
-# Hi, I'm Jeffadha 👋 (replace with your name)
+# Hi, I'm Jeffa 👋
 
-![Banner](assets/banner.svg)
+![Banner](profile-animated.svg)
 
 ## About Me
 I’m a software engineer focused on building reliable, maintainable web applications and delightful developer experiences.  
@@ -9,7 +9,7 @@ I love clean architecture, automated workflows, and turning messy requirements i
 - 🔭 I’m currently building: **Sistem Pengajuan Riset LPPM** (Laravel, MySQL, Bootstrap)
 - 🌱 I’m learning: advanced Cloud Architecture & DevOps
 - 💬 Ask me about: Laravel, PHP, Node.js, REST APIs, database design
-- 📫 Contact: [email@example.com](mailto:email@example.com) • [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 Contact: [jeffadharhenggajatiu@gmail.com](mailto:jeffadharhenggajatiu@gmail.com) • [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 ---
 
@@ -47,9 +47,8 @@ I love clean architecture, automated workflows, and turning messy requirements i
 ---
 
 ## 🛠️ How to reach me
-- Email: email@example.com
-- LinkedIn: https://www.linkedin.com/in/yourprofile
-- Twitter: @yourhandle (optional)
+- Email: jeffadharhenggajatiu@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yourp
 
 ---
 
