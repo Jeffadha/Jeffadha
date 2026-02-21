@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>Hi there, I'm Jeffa! 👋</h1>
-  <h3>Software Engineer | Backend Specialist</h3>
+  <h1>Hi, I'm Jeffa.</h1>
+  <h3>Software Engineer | Informatics Student & Teaching Assistant</h3>
   <p><i>Building reliable, maintainable web applications with a focus on clean architecture.</i></p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 **Currently building:** Sistem Pengajuan Riset LPPM (Laravel, MySQL, DataTables) & Dockerized environments.
-- 🌱 **Currently learning:** Advanced Cloud Architecture, DevOps, and Data Warehousing (ETL/OLAP).
-- 👯 **Looking to collaborate on:** Open-source backend tools and REST APIs.
-- 💬 **Ask me about:** Laravel, Vue.js, Database Design, and Object-Oriented Programming.
-- 📫 **How to reach me:** [jeffadharhenggajatiu@gmail.com](mailto:jeffadharhenggajatiu@gmail.com)
+- **Currently building:** A Dockerized LPPM Research Information System featuring title similarity detection using the Cosine Similarity algorithm.
+- **Experience:** Teaching Assistant for Object-Oriented Programming (PBO) and Web Programming.
+- **Currently learning:** Advanced Cloud Architecture, DevOps, and Data Warehousing (ETL/OLAP).
+- **Ask me about:** Laravel, Vue.js, REST APIs, and Database Design.
+- **Contact:** [jeffadharhenggajatiu@gmail.com](mailto:jeffadharhenggajatiu@gmail.com)
 
 ---
 
-### 🛠️ Core Tech Stack
+### Core Tech Stack
 
 **Backend & Database**<br>
 ![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -36,19 +36,19 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| Project | Stack | Description & Impact |
+| Project | Stack | Description |
 | :--- | :--- | :--- |
-| **Sistem Pengajuan Riset LPPM** | `Laravel 9`, `MySQL` | End-to-end automated research submission system with complex file handling and reporting. Replaced manual processes. |
-| **Library Attendance App** | `NestJS`, `Vue`, `MySQL` | Real-time student registration and attendance tracking ecosystem with administrative Excel exports. |
-| **Legacy Modernization** | `PHP`, `Laravel` | Migrated legacy PDO/PHP codebase to Laravel. Reduced technical debt and hardened security. |
+| **Sistem Pengajuan Riset LPPM** | Laravel, MySQL, Docker | End-to-end research submission system with automated title similarity detection (Cosine Similarity). |
+| **eSantri** | Web, VR | Online pesantren search application featuring Virtual Reality (VR) tours. |
+| **Library Attendance App** | NestJS, Vue.js, MySQL | Real-time student registration and attendance tracking ecosystem with administrative exports. |
+| **SIEDOM** | Web | Student evaluation system built for university lecturers. |
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffadha&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff" alt="Jeffa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffadha&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff" alt="Top Languages" width="48%" />
-</div>
+[![Jeffa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffadha&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff)](https://github.com/Jeffadha)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffadha&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff)](https://github.com/Jeffadha)
