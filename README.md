@@ -49,7 +49,8 @@
 
 ### Development Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffadha&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffadha&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+[![Jeffa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffadha&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/Jeffadha)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffadha&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)](https://github.com/Jeffadha)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jeffadha&theme=github_dark&hide_border=true)](https://github.com/Jeffadha)
